@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EasyBungee">
+    <CLASSES>
+      <root url="jar://E:/bungeecord/proxy/plugins/EasyBungee.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

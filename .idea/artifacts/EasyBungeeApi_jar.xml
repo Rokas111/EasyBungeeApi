@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EasyBungeeApi:jar">
+    <output-path>E:/bungeecord/Hub/plugins</output-path>
+    <root id="archive" name="EasyBungeeApi.jar">
+      <element id="module-output" name="EasyBungeeApi" />
+    </root>
+  </artifact>
+</component>
